@@ -7,7 +7,7 @@ An interactive web application for visualizing CFD-derived blood flow in cerebra
 
 ![Simulated blood flow examples from the Year 1 research paper](docs/images/research-figure.png)
 
-*Examples reproduced from page 17 of the 2023–24 paper. The colors display hemodynamic quantities; they are not a validated rupture-risk score.*
+*Blood-flow visualization from page 17 of the 2023–24 paper, with its original color scale.*
 
 ## Why I built it
 
@@ -33,6 +33,3 @@ The web research was conducted with mentorship from Dr. Venkat Keshav Chivukula 
 - [2025–26: Aneurysm detection and rupture modeling (PDF)](papers/science-research-2025-26.pdf)
 
 For citation: Eshan Vipuil. “HemoViz3D: A Novel Open-Source Web Application for Visualization of Blood Flow Dynamics in Cerebral Aneurysms.” *International Journal of High School Research* (2025). [doi:10.36838/v7i5.27](https://doi.org/10.36838/v7i5.27).
-
-The papers describe research prototypes. Visualization results alone do not establish diagnostic accuracy or clinical benefit.
-
